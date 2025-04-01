@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miracle Alajemba</h1>
-<h3 align="center">A passionate frontend Enginner</h3>
+<h3 align="center">A Passionate frontend Enginner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miracle-alajemba&label=Profile%20views&color=0e75b6&style=flat" alt="miracle-alajemba" /> </p>
 
