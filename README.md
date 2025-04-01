@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miracle Alajemba</h1>
-<h3 align="center">A Passionate frontend EnginnerAs a passionate frontend engineer, I thrive on creating visually appealing and user-friendly web applications. With a strong foundation in JavaScript and React.js, I aim to build responsive and performant interfaces. I am constantly exploring new technologies and frameworks to enhance my skill set and stay updated with industry trends. My goal is to deliver high-quality code and seamlessly integrate design with functionality to provide exceptional user experiences.</h3>
+<h3 align="center">A Passionate frontend Enginner As a passionate frontend engineer, I thrive on creating visually appealing and user-friendly web applications. With a strong foundation in JavaScript and React.js, I aim to build responsive and performant interfaces. I am constantly exploring new technologies and frameworks to enhance my skill set and stay updated with industry trends. My goal is to deliver high-quality code and seamlessly integrate design with functionality to provide exceptional user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miracle-alajemba&label=Profile%20views&color=0e75b6&style=flat" alt="miracle-alajemba" /> </p>
 
